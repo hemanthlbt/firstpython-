@@ -25,17 +25,34 @@
 
 
 
-#short hanf if else
+# short hanf if else
 
 # a = 100
 # b = 600
 
 # # if a<b : print("eshanarang and samarasaigal")
- 
+
 # print("a") if a>b else print("b")
 
 # i will leave this here today. so i like python too so i'mn just gonna leave it here and i want to earn java  script now and start my day to it.
 
 # for sure python programming is also sooo good...
+
+
+
+#python functions
+
+
+
+
+
+def hemanth():
+  print("this is hemanth kumar");
+
+hemanth()
+
+
+
+
 
 

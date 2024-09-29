@@ -42,14 +42,28 @@
 
 #python functions
 
+# def hemanth():
+#   print("this is hemanth kumar");
+# hemanth()
 
 
 
+# def hemanthkumar(x,y):
+#   return x+y
 
-def hemanth():
-  print("this is hemanth kumar");
+#   result = hemanthkumar(200,400)
+#   print(result)
 
-hemanth()
+
+
+def newfunction():
+  print("this is the last time i am saying this to you hemanth and this is the last warning plese for god sake study")
+  print("i just found out you the indentation is only for the print statements")
+
+newfunction()
+
+
+
 
 
 

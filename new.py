@@ -56,11 +56,28 @@
 
 
 
-def newfunction():
-  print("this is the last time i am saying this to you hemanth and this is the last warning plese for god sake study")
-  print("i just found out you the indentation is only for the print statements")
+# def newfunction():
+#   print("this is the last time i am saying this to you hemanth and this is the last warning plese for god sake study")
+#   print("i just found out you the indentation is only for the print statements")
 
-newfunction()
+# newfunction()
+
+
+
+# keywpord arguments
+
+# def keys(c1,c2,c3):
+#  print("the youngest child is "+ c2)
+# keys(c1="hemanth",c2="esha",c3="samara")
+
+
+# arbitay keyword arguments...
+  #  **kwargs
+def sunita(**keys):
+ print("sunita is a whoreassbitch and she is " +keys["fname"] + keys["lname"])
+sunita(fname="esha",lname="narang")
+
+#  cool man i am liking python from what ever i have learned.
 
 
 

@@ -73,11 +73,31 @@
 
 # arbitay keyword arguments...
   #  **kwargs
-def sunita(**keys):
- print("sunita is a whoreassbitch and she is " +keys["fname"] + keys["lname"])
-sunita(fname="esha",lname="narang")
+# def sunita(**keys):
+#  print("sunita is a whoreassbitch and she is " +keys["fname"] + keys["lname"])
+# sunita(fname="esha",lname="narang")
 
 #  cool man i am liking python from what ever i have learned.
+# i need to do 100 contributions today and i dont even know how but i will..
+
+#  i'm gonna do it again
+
+
+# def jamindia(**nano):
+#   print("these all are common these days "+ nano["fname"] +nano["lname"]+ nano["iname"])
+# jamindia(fname="Hemanth",lname="kumar",iname="lingabathhina")
+
+
+def iman():
+  print("abe iski indentation ki maa ki chut madarchod python sala.")
+iman()
+
+# abe iski indentation ki maa ki chut madarchod python sala.
+
+
+
+
+
 
 
 

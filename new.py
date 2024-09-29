@@ -11,8 +11,6 @@
 # if x < y:
 # print("this is hemanth kumar")
   
-
-
 # a = 400
 # b = 500
 
@@ -106,7 +104,19 @@
 # jamindia("kojjalanja")
 # jamindia()
 
-#  ok now i understood what default parameters is now i need to focus on what javascript default prameters are
+#  ok now i understood what default parameters is now i need to focus on what javascript default prameters are.
+#  passing list in function
+
+# def my_function(food):
+#   for x in food:
+#     print(x)
+
+# fruits = ["apple","banana","cherry"]
+
+# my_function()
+
+# ok i will stop it here enough python now.
+
 
 
 

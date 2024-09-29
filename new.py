@@ -88,11 +88,27 @@
 # jamindia(fname="Hemanth",lname="kumar",iname="lingabathhina")
 
 
-def iman():
-  print("abe iski indentation ki maa ki chut madarchod python sala.")
-iman()
+# def iman():
+#   print("abe iski indentation ki maa ki chut madarchod python sala.")
+# iman()
 
 # abe iski indentation ki maa ki chut madarchod python sala.
+
+# default parameters in python programming
+
+# def jamindia(hemanth="chutiya"):
+#   print("hemanth kumar is a big " +  hemanth)
+# jamindia()
+# jamindia("goodman")
+# jamindia("saala")
+# jamindia("kojja")
+# jamindia("lanja")
+# jamindia("kojjalanja")
+# jamindia()
+
+#  ok now i understood what default parameters is now i need to focus on what javascript default prameters are
+
+
 
 
 
